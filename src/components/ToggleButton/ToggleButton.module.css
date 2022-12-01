@@ -33,3 +33,7 @@
   color: white;
   border-width: 6px;
 }
+
+.toggleButton:last-child {
+  margin-right: 24px;
+}
